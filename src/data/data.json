@@ -1,0 +1,193 @@
+[{
+   "export_name": "Plan",
+   "file_path": "http:\/\/retailbuild.vn\/media\/files\/CPMNES15003\/export\/plan\/2018_01_16_16_29_47\/FILE-plan-2018_01_16_16_29_47.zip",
+   "from_date": "2018-01-01",
+   "to_date": "2018-01-12",
+   "export_key": "2018-01-01__2018-01-12__e31dcbcd66bc754926cf969f50444867",
+   "user_export": "binh.nguyen",
+   "time_export": "2018-01-16 16:30:42"
+}, {
+   "export_name": "Store level KTC",
+   "file_path": "http:\/\/retailbuild.vn\/media\/files\/CPMNES15003\/export\/store_level_ktc\/2018-01-01__2018-01-12__e31dcbcd66bc754926cf969f5044486720180116163057\/FILE-store_level_ktc-2018-01-01__2018-01-12__e31dcbcd66bc754926cf969f5044486720180116163057.zip",
+   "from_date": "2018-01-01",
+   "to_date": "2018-01-12",
+   "export_key": "2018-01-01__2018-01-12__e31dcbcd66bc754926cf969f50444867",
+   "user_export": "binh.nguyen",
+   "time_export": "2018-01-16 16:31:00"
+}, {
+   "export_name": "Store image",
+   "file_path": "http:\/\/retailbuild.vn\/media\/files\/CPMNES15003\/export\/store_image\/2018-01-01__2018-01-12__e31dcbcd66bc754926cf969f5044486720180116163112\/FILE-store_image-2018-01-01__2018-01-12__e31dcbcd66bc754926cf969f5044486720180116163112.zip",
+   "from_date": "2018-01-01",
+   "to_date": "2018-01-12",
+   "export_key": "2018-01-01__2018-01-12__e31dcbcd66bc754926cf969f50444867",
+   "user_export": "binh.nguyen",
+   "time_export": "2018-01-16 16:33:19"
+}, {
+   "export_name": "Plan",
+   "file_path": "http:\/\/retailbuild.vn\/media\/files\/CPMNES15003\/export\/plan\/2018_01_17_10_28_04\/FILE-plan-2018_01_17_10_28_04.zip",
+   "from_date": "2018-01-13",
+   "to_date": "2018-01-13",
+   "export_key": "2018-01-13__2018-01-13__102329903e85261a38e99b9ac69858c4",
+   "user_export": "nestle.export",
+   "time_export": "2018-01-17 10:28:10"
+}, {
+   "export_name": "Plan",
+   "file_path": "http:\/\/retailbuild.vn\/media\/files\/CPMNES15003\/export\/plan\/2018_01_17_10_37_50\/FILE-plan-2018_01_17_10_37_50.zip",
+   "from_date": "2018-01-13",
+   "to_date": "2018-01-13",
+   "export_key": "2018-01-13__2018-01-13__b7650d8925c253aa472957cf528bb4c0",
+   "user_export": "nestle.export",
+   "time_export": "2018-01-17 10:37:55"
+}, {
+   "export_name": "Plan",
+   "file_path": "http:\/\/retailbuild.vn\/media\/files\/CPMNES15003\/export\/plan\/2018_01_17_10_42_20\/FILE-plan-2018_01_17_10_42_20.zip",
+   "from_date": "2018-01-13",
+   "to_date": "2018-01-13",
+   "export_key": "2018-01-13__2018-01-13__5f28c29148351eca9c9654e0b001c0b7",
+   "user_export": "nestle.export",
+   "time_export": "2018-01-17 10:42:25"
+}, {
+   "export_name": "Plan attribute data",
+   "file_path": "http:\/\/retailbuild.vn\/media\/files\/CPMNES15003\/export\/plan_attr_data\/2018-01-13__2018-01-13__5f28c29148351eca9c9654e0b001c0b720180117104246\/FILE-plan_attr_data-2018-01-13__2018-01-13__5f28c29148351eca9c9654e0b001c0b720180117104246.zip",
+   "from_date": "2018-01-13",
+   "to_date": "2018-01-13",
+   "export_key": "2018-01-13__2018-01-13__5f28c29148351eca9c9654e0b001c0b7",
+   "user_export": "nestle.export",
+   "time_export": "2018-01-17 10:43:23"
+}, {
+   "export_name": "Product data",
+   "file_path": "http:\/\/retailbuild.vn\/media\/files\/CPMNES15003\/export\/product_data\/2018-01-13__2018-01-13__5f28c29148351eca9c9654e0b001c0b720180117104334\/FILE-product_data-2018-01-13__2018-01-13__5f28c29148351eca9c9654e0b001c0b720180117104334.zip",
+   "from_date": "2018-01-13",
+   "to_date": "2018-01-13",
+   "export_key": "2018-01-13__2018-01-13__5f28c29148351eca9c9654e0b001c0b7",
+   "user_export": "nestle.export",
+   "time_export": "2018-01-17 10:43:49"
+}, {
+   "export_name": "Chart data",
+   "file_path": "http:\/\/retailbuild.vn\/media\/files\/CPMNES15003\/export\/chart_data\/2018-01-13__2018-01-13__5f28c29148351eca9c9654e0b001c0b720180117104355\/FILE-chart_data-2018-01-13__2018-01-13__5f28c29148351eca9c9654e0b001c0b720180117104355.zip",
+   "from_date": "2018-01-13",
+   "to_date": "2018-01-13",
+   "export_key": "2018-01-13__2018-01-13__5f28c29148351eca9c9654e0b001c0b7",
+   "user_export": "nestle.export",
+   "time_export": "2018-01-17 10:43:57"
+}, {
+   "export_name": "Store map",
+   "file_path": "http:\/\/retailbuild.vn\/media\/files\/CPMNES15003\/export\/store_map\/2018-01-13__2018-01-13__5f28c29148351eca9c9654e0b001c0b720180117104404\/FILE-store_map-2018-01-13__2018-01-13__5f28c29148351eca9c9654e0b001c0b720180117104404.zip",
+   "from_date": "2018-01-13",
+   "to_date": "2018-01-13",
+   "export_key": "2018-01-13__2018-01-13__5f28c29148351eca9c9654e0b001c0b7",
+   "user_export": "nestle.export",
+   "time_export": "2018-01-17 10:44:05"
+}, {
+   "export_name": "Store level KTC",
+   "file_path": "http:\/\/retailbuild.vn\/media\/files\/CPMNES15003\/export\/store_level_ktc\/2018-01-13__2018-01-13__5f28c29148351eca9c9654e0b001c0b720180117104410\/FILE-store_level_ktc-2018-01-13__2018-01-13__5f28c29148351eca9c9654e0b001c0b720180117104410.zip",
+   "from_date": "2018-01-13",
+   "to_date": "2018-01-13",
+   "export_key": "2018-01-13__2018-01-13__5f28c29148351eca9c9654e0b001c0b7",
+   "user_export": "nestle.export",
+   "time_export": "2018-01-17 10:44:11"
+}, {
+   "export_name": "Store image",
+   "file_path": "http:\/\/retailbuild.vn\/media\/files\/CPMNES15003\/export\/store_image\/2018-01-13__2018-01-13__5f28c29148351eca9c9654e0b001c0b720180117104419\/FILE-store_image-2018-01-13__2018-01-13__5f28c29148351eca9c9654e0b001c0b720180117104419.zip",
+   "from_date": "2018-01-13",
+   "to_date": "2018-01-13",
+   "export_key": "2018-01-13__2018-01-13__5f28c29148351eca9c9654e0b001c0b7",
+   "user_export": "nestle.export",
+   "time_export": "2018-01-17 10:44:29"
+}, {
+   "export_name": "Plan",
+   "file_path": "http:\/\/retailbuild.vn\/media\/files\/CPMNES15003\/export\/plan\/2018_01_18_09_23_04\/FILE-plan-2018_01_18_09_23_04.zip",
+   "from_date": "2018-01-14",
+   "to_date": "2018-01-14",
+   "export_key": "2018-01-14__2018-01-14__e6a8db8b764f9eb7a459593abc9c988f",
+   "user_export": "nestle.export",
+   "time_export": "2018-01-18 09:23:07"
+}, {
+   "export_name": "Plan attribute data",
+   "file_path": "http:\/\/retailbuild.vn\/media\/files\/CPMNES15003\/export\/plan_attr_data\/2018-01-14__2018-01-14__e6a8db8b764f9eb7a459593abc9c988f20180118092331\/FILE-plan_attr_data-2018-01-14__2018-01-14__e6a8db8b764f9eb7a459593abc9c988f20180118092331.zip",
+   "from_date": "2018-01-14",
+   "to_date": "2018-01-14",
+   "export_key": "2018-01-14__2018-01-14__e6a8db8b764f9eb7a459593abc9c988f",
+   "user_export": "nestle.export",
+   "time_export": "2018-01-18 09:23:41"
+}, {
+   "export_name": "Product data",
+   "file_path": "http:\/\/retailbuild.vn\/media\/files\/CPMNES15003\/export\/product_data\/2018-01-14__2018-01-14__e6a8db8b764f9eb7a459593abc9c988f20180118092352\/FILE-product_data-2018-01-14__2018-01-14__e6a8db8b764f9eb7a459593abc9c988f20180118092352.zip",
+   "from_date": "2018-01-14",
+   "to_date": "2018-01-14",
+   "export_key": "2018-01-14__2018-01-14__e6a8db8b764f9eb7a459593abc9c988f",
+   "user_export": "nestle.export",
+   "time_export": "2018-01-18 09:23:57"
+}, {
+   "export_name": "Chart data",
+   "file_path": "http:\/\/retailbuild.vn\/media\/files\/CPMNES15003\/export\/chart_data\/2018-01-14__2018-01-14__e6a8db8b764f9eb7a459593abc9c988f20180118092405\/FILE-chart_data-2018-01-14__2018-01-14__e6a8db8b764f9eb7a459593abc9c988f20180118092405.zip",
+   "from_date": "2018-01-14",
+   "to_date": "2018-01-14",
+   "export_key": "2018-01-14__2018-01-14__e6a8db8b764f9eb7a459593abc9c988f",
+   "user_export": "nestle.export",
+   "time_export": "2018-01-18 09:24:06"
+}, {
+   "export_name": "Store map",
+   "file_path": "http:\/\/retailbuild.vn\/media\/files\/CPMNES15003\/export\/store_map\/2018-01-14__2018-01-14__e6a8db8b764f9eb7a459593abc9c988f20180118092414\/FILE-store_map-2018-01-14__2018-01-14__e6a8db8b764f9eb7a459593abc9c988f20180118092414.zip",
+   "from_date": "2018-01-14",
+   "to_date": "2018-01-14",
+   "export_key": "2018-01-14__2018-01-14__e6a8db8b764f9eb7a459593abc9c988f",
+   "user_export": "nestle.export",
+   "time_export": "2018-01-18 09:24:14"
+}, {
+   "export_name": "Store level KTC",
+   "file_path": "http:\/\/retailbuild.vn\/media\/files\/CPMNES15003\/export\/store_level_ktc\/2018-01-14__2018-01-14__e6a8db8b764f9eb7a459593abc9c988f20180118092422\/FILE-store_level_ktc-2018-01-14__2018-01-14__e6a8db8b764f9eb7a459593abc9c988f20180118092422.zip",
+   "from_date": "2018-01-14",
+   "to_date": "2018-01-14",
+   "export_key": "2018-01-14__2018-01-14__e6a8db8b764f9eb7a459593abc9c988f",
+   "user_export": "nestle.export",
+   "time_export": "2018-01-18 09:24:22"
+}, {
+   "export_name": "Store image",
+   "file_path": "http:\/\/retailbuild.vn\/media\/files\/CPMNES15003\/export\/store_image\/2018-01-14__2018-01-14__e6a8db8b764f9eb7a459593abc9c988f20180118092428\/FILE-store_image-2018-01-14__2018-01-14__e6a8db8b764f9eb7a459593abc9c988f20180118092428.zip",
+   "from_date": "2018-01-14",
+   "to_date": "2018-01-14",
+   "export_key": "2018-01-14__2018-01-14__e6a8db8b764f9eb7a459593abc9c988f",
+   "user_export": "nestle.export",
+   "time_export": "2018-01-18 09:24:34"
+}, {
+   "export_name": "Plan",
+   "file_path": "http:\/\/retailbuild.vn\/media\/files\/CPMNES15003\/export\/plan\/2018_01_19_08_55_56\/FILE-plan-2018_01_19_08_55_56.zip",
+   "from_date": "2018-01-15",
+   "to_date": "2018-01-15",
+   "export_key": "2018-01-15__2018-01-15__62ca98bd13db606ba618111a3dbc7b3c",
+   "user_export": "nestle.export",
+   "time_export": "2018-01-19 08:56:01"
+}, {
+   "export_name": "Plan",
+   "file_path": "http:\/\/retailbuild.vn\/media\/files\/CPMNES15003\/export\/plan\/2018_01_20_08_40_30\/FILE-plan-2018_01_20_08_40_30.zip",
+   "from_date": "2018-01-16",
+   "to_date": "2018-01-16",
+   "export_key": "2018-01-16__2018-01-16__b219ce21e89cdd488c107cbb4d8398cc",
+   "user_export": "nestle.export",
+   "time_export": "2018-01-20 08:40:36"
+}, {
+   "export_name": "Store",
+   "file_path": "http:\/\/retailbuild.vn\/media\/files\/CPMNES15003\/export\/store\/2018_01_20_08_51_04\/FILE-store-2018_01_20_08_51_04.zip",
+   "from_date": "2018-01-01",
+   "to_date": "2018-01-21",
+   "export_key": "",
+   "user_export": "nestle.export",
+   "time_export": "2018-01-20 08:51:05"
+}, {
+   "export_name": "Plan",
+   "file_path": "http:\/\/retailbuild.vn\/media\/files\/CPMNES15003\/export\/plan\/2018_01_20_09_31_36\/FILE-plan-2018_01_20_09_31_36.zip",
+   "from_date": "2018-01-01",
+   "to_date": "2018-01-16",
+   "export_key": "2018-01-01__2018-01-16__3453c2302f2bc844a3e5959a8ddc07ce",
+   "user_export": "nestle.export",
+   "time_export": "2018-01-20 09:32:35"
+}, {
+   "export_name": "Plan",
+   "file_path": "http:\/\/retailbuild.vn\/media\/files\/CPMNES15003\/export\/plan\/2018_01_22_09_23_00\/FILE-plan-2018_01_22_09_23_00.zip",
+   "from_date": "2018-01-17",
+   "to_date": "2018-01-17",
+   "export_key": "2018-01-17__2018-01-17__fa4a2c691520dbe614e4104704be7735",
+   "user_export": "nestle.export",
+   "time_export": "2018-01-22 09:23:06"
+}]
